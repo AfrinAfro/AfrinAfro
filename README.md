@@ -297,7 +297,7 @@ Continuously building projects and improving my understanding of frontend develo
 
 </div>
 
-### 📈 Contribution Activity
+
 
 
 <div align="center">
