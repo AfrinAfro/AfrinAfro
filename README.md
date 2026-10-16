@@ -273,17 +273,6 @@ A complete full-stack application covering frontend, backend, and database.
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AfrinAfro&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinAfro&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="48%" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AfrinAfro&theme=radical&hide_border=true&background=0d1117&ring=00d4ff&fire=ff4d6d&currStreakLabel=00d4ff" width="80%" alt="GitHub Streak">
-
-<br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinafro&show_icons=true&locale=en&layout=compact" alt="afrinafro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinafro&show_icons=true&locale=en" alt="afrinafro" /></p>
