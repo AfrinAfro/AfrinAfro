@@ -1,10 +1,6 @@
 <!-- =========================================================
      AFRIN BINTE AFROZ | PREMIUM GITHUB PROFILE README
      Repository: AfrinAfro
-     Required assets:
-       assets/banner.png
-       assets/coding-animation.gif
-       resume.pdf
 ========================================================== -->
 
 <!-- ======================= HERO ======================= -->
@@ -55,7 +51,7 @@
 
 <table width="100%" style="border: none;">
 <tr>
-<td width="58%" valign="middle" style="border: none; padding-right: 20px;">
+<td width="55%" valign="middle" style="border: none; padding-right: 20px;">
 
 ### Hi, I'm Afrin Binte Afroz 👋
 
@@ -74,12 +70,13 @@ My primary interests include **full-stack web development, React.js, JavaScript,
 
 </td>
 
-<td width="42%" align="center" valign="middle" style="border: none;">
+<td width="45%" align="center" valign="middle" style="border: none;">
 
+  <!-- FIXED ANIMATION SIZE -->
   <img src="assets/coding-animation.gif"
        width="100%"
        alt="Coding animation"
-       style="border-radius: 12px; display: block; max-width: 420px; height: auto;"/>
+       style="border-radius: 12px; display: block; width: 100%; max-width: 480px; height: auto;"/>
 
 </td>
 
@@ -107,8 +104,6 @@ My primary interests include **full-stack web development, React.js, JavaScript,
 </div>
 
 I use coding platforms to practice problem-solving, strengthen programming fundamentals, and improve my understanding of algorithms and data structures.
-
-> Add CodeChef when you have a profile to link. Include contest ratings and problem-solving milestones only when verified.
 
 ---
 
@@ -155,10 +150,6 @@ I use coding platforms to practice problem-solving, strengthen programming funda
 
 </div>
 
-<p align="center">
-  <i>Focused on building practical projects and strengthening these technologies through hands-on development.</i>
-</p>
-
 ---
 
 <!-- ======================= PROJECTS ======================= -->
@@ -180,8 +171,6 @@ An interactive drawing application that uses hand gestures to create a more natu
 
 **Technologies:** Python, Computer Vision
 
-**Repository:** [Add project repository URL](YOUR_HAND_GESTURE_PROJECT_URL)
-
 </td>
 <td width="50%" valign="top">
 
@@ -195,39 +184,6 @@ A plant-focused web application developed to practice modern frontend developmen
 - Interactive, responsive interface
 
 **Technologies:** React, Vite, API Integration
-
-**Repository:** [Add project repository URL](YOUR_GREEN_EARTH_PROJECT_URL)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Web Application
-
-A web development project demonstrating practical frontend implementation and application functionality.
-
-**Highlights**
-- User-focused interface
-- Structured application components
-- Opportunity to extend database integration
-
-**Technologies:** JavaScript, React, Database Tools
-
-**Repository:** [Add project repository URL](YOUR_FULLSTACK_PROJECT_URL)
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 More Projects
-
-I am continuously learning, experimenting with new ideas, and developing projects to strengthen my software engineering skills.
-
-Explore my GitHub repositories to discover more of my work.
-
-<a href="https://github.com/AfrinAfro?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
-</a>
 
 </td>
 </tr>
@@ -243,30 +199,9 @@ Explore my GitHub repositories to discover more of my work.
 **SWOT System Limited | Bangladesh ASSET Project**
 
 Participating in practical web design training to strengthen web development knowledge and build industry-relevant skills.
-- Developing practical web design experience
-- Improving website layout and interface implementation
-- Applying technical concepts through hands-on work
 
 ### 💻 Independent Developer & Learner
 Continuously building projects and improving my understanding of frontend development, databases, programming fundamentals, and full-stack application development.
-- Practicing JavaScript and React
-- Exploring Python programming
-- Working with MongoDB and Firebase
-- Learning through project implementation and debugging
-
----
-
-<!-- ======================= ACHIEVEMENTS ======================= -->
-
-## 🏆 Achievements & Learning Milestones
-
-- 🎓 Pursuing a BSc in Computer Science and Engineering.
-- 📜 Completed the Programming Hero course.
-- 💻 Building hands-on web development projects.
-- 📚 Participating in professional web design training.
-- 🚀 Continuously expanding my technical knowledge through practical learning.
-
-> This section is intentionally focused on verified milestones. Add certifications, competition results, open-source contributions, and measurable project outcomes as you earn them.
 
 ---
 
@@ -276,6 +211,7 @@ Continuously building projects and improving my understanding of frontend develo
 
 <div align="center">
 
+  <!-- FIXED STATS & CONTRIBUTION TRACKING -->
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=AfrinAfro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="AfrinAfro GitHub statistics"/>
 
   <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrinAfro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
@@ -298,31 +234,9 @@ Continuously building projects and improving my understanding of frontend develo
 
 ---
 
-<!-- ======================= OPEN SOURCE ======================= -->
-
-## 🌍 Open Source
-
-I am interested in learning from the developer community, exploring open-source projects, and contributing as my experience grows.
-
-- 🔍 Discover beginner-friendly issues.
-- 📖 Improve documentation and project usability.
-- 🐛 Learn to identify and report bugs.
-- 🔧 Contribute useful fixes and features.
-- 🤝 Learn from collaboration and code reviews.
-
-<div align="center">
-  <a href="https://github.com/topics/good-first-issue">
-    <img src="https://img.shields.io/badge/Find_Good_First_Issues-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Find beginner issues"/>
-  </a>
-</div>
-
----
-
 <!-- ======================= CONTACT ======================= -->
 
 ## 📬 Let's Connect
-
-I'm happy to connect with developers, discuss interesting projects, exchange ideas, and explore opportunities to learn and collaborate.
 
 <div align="center">
 
@@ -338,24 +252,10 @@ I'm happy to connect with developers, discuss interesting projects, exchange ide
 
   <br/><br/>
 
-  <a href="https://leetcode.com/u/user5418e/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/afrinafyjfz">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/afrin_afroz107">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank profile"/>
-  </a>
-
-  <br/><br/>
-
   <img src="https://komarev.com/ghpvc/?username=AfrinAfro&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile visitor counter"/>
 
   <br/><br/>
 
   ### ✨ Build. Learn. Improve. Repeat.
-
-  <sub>Designed with curiosity and a passion for technology.</sub>
 
 </div>
