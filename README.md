@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="assets/banner.png" width="100%" alt="Afrin Binte Afroz — Developer Banner"/>
+  <img src="assets/Afrin Binte Afroz — Full Stack Developer.png" width="100%" alt="Afrin Binte Afroz — Developer Banner"/>
 
   <br/>
 
