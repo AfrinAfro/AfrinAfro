@@ -300,11 +300,18 @@ Continuously building projects and improving my understanding of frontend develo
 
 
 
+
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinAfro&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="GitHub contribution activity graph"/>
+  <a href="https://github.com/AfrinAfro">
+    <img
+      src="https://img.shields.io/badge/View_My_GitHub_Contributions-8B5CF6?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub contributions"
+    />
+  </a>
 
 </div>
+
 
 
 ---
