@@ -299,11 +299,13 @@ Continuously building projects and improving my understanding of frontend develo
 
 ### 📈 Contribution Activity
 
+
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinAfro&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinAfro&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="GitHub contribution activity graph"/>
 
 </div>
+
 
 ---
 
