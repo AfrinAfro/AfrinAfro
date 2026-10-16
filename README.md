@@ -1,24 +1,254 @@
-<h1 align="center">Hi 👋, I'm Afrin Binte Afroz</h1>
-<h3 align="center">Undergraduate Student | Full Stack Web Developer | MERN Stack & REST APIs | Interested in OpenCV & Computer Vision AI</h3>
-
-- 🌱 I’m currently learning **OpenCV, Computer Vision, Deep Learning & Next.js**
-
-- 💬 Ask me about **React, Node.js, Express, MongoDB, JavaScript & Web Architecture**
-
-- 📫 How to reach me **afrin.afroz107@gmail.com**
-
-- ⚡ Fun fact **I turn coffee and complex algorithms into clean web applications!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/afrin-binte-afroz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/afrin-binte-afroz" height="30" width="40" /></a>
+<!-- BANNER -->
+<p align="center">
+  <img
+    src="https://github.com/sabbirckc/sabbirckc/blob/329862f47b1c8de369827bed31bd71d2e91e6415/Codex%20Image%20Sep%203%2C%202026%2C%2012_53_16%20AM.png?raw=true"
+    width="100%"
+    alt="Sabbir Hossain Banner"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- ANIMATED NAME WITH GLOW EFFECT -->
+<h1 align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Sabbir+Hossain;Full+Stack+Developer;Problem+Solver;Code+%26+Coffee+Lover"
+    alt="Sabbir Hossain"
+  />
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinafro&show_icons=true&locale=en&layout=compact" alt="afrinafro" /></p>
+<!-- GLOWING TAGLINE -->
+<p align="center">
+  <strong style="font-size: 20px; background: linear-gradient(135deg, #ffffff, #a8b5c0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    ✦ Turning ideas into clean, scalable web applications ✦
+  </strong>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinafro&show_icons=true&locale=en" alt="afrinafro" /></p>
+<!-- DECORATIVE DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinafro&" alt="afrinafro" /></p>
+<!-- ABOUT SECTION WITH ICONS -->
+<h2 align="center">
+  ⚡ About Me ⚡
+</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="70%">
+      <p>
+        🚀 Passionate Full Stack Developer focused on building practical,
+        responsive, and user-friendly web applications.
+      </p>
+      <p>
+        💡 Currently strengthening my <strong>JavaScript, React, and TypeScript</strong> skills
+        while exploring modern frontend development.
+      </p>
+      <ul>
+        <li>🌱 <strong>Currently learning:</strong> JavaScript, React, TypeScript</li>
+        <li>💻 <strong>Interested in:</strong> Frontend Development & UI/UX</li>
+        <li>🚀 <strong>Building:</strong> Real-world projects to improve development skills</li>
+        <li>📚 <strong>Learning:</strong> Modern web technologies step by step</li>
+        <li>💬 <strong>Ask me about:</strong> JavaScript, React, and Web Development</li>
+        <li>📫 <strong>Email:</strong> sabbirhossainnubian@gmail.com</li>
+      </ul>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <strong>🎯 Philosophy:</strong>
+  <em>Learn → Build → Improve → Repeat</em>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- TECH STACK WITH ANIMATED ICONS -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" height="30" />
+  Tech Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" height="30" />
+</h2>
+
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,graphql" height="55" />
+</p>
+
+<h3 align="center">⚛️ Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap" height="55" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="55" />
+</p>
+
+<h3 align="center">🗄️ Database & ORM</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" height="55" />
+</p>
+
+<h3 align="center">🚀 Deployment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" height="55" />
+</p>
+
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" height="55" />
+</p>
+
+<h3 align="center">🎨 Design</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" height="55" />
+</p>
+
+<h3 align="center">📖 Currently Learning</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- FEATURED PROJECTS -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="30" height="30" />
+  Featured Projects
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="30" height="30" />
+</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎯 DEVCONF 2026</h3>
+      <p>Developer conference landing page built with modern frontend practices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://sabbirckc.github.io/B14-A01-DevConf-2026/">
+          <img src="https://img.shields.io/badge/Live_Demo-Visit-2ea44f?style=for-the-badge&logo=vercel" />
+        </a>
+        <a href="https://github.com/sabbirckc/B14-A01-DevConf-2026">
+          <img src="https://img.shields.io/badge/Code-View-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📦 More Projects</h3>
+      <p>Explore my GitHub for more projects and experiments.</p>
+      <br />
+      <p>
+        <a href="https://github.com/sabbirckc?tab=repositories">
+          <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- GITHUB STATS WITH STREAK -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" />
+  GitHub Analytics
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" />
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirckc&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="55%" />
+</div>
+
+<br />
+
+
+<br />
+
+<!-- FIXED BADGES - ALL WORKING NOW -->
+<p align="center">
+  <!-- GitHub Followers -->
+  <a href="https://github.com/sabbirckc">
+    <img src="https://img.shields.io/github/followers/sabbirckc?label=FOLLOWERS&style=for-the-badge&color=58A6FF&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- GitHub Stars -->
+  <a href="https://github.com/sabbirckc">
+    <img src="https://img.shields.io/github/stars/sabbirckc?label=STARS&style=for-the-badge&color=58A6FF&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- Profile Views -->
+  <a href="https://github.com/sabbirckc">
+    <img src="https://komarev.com/ghpvc/?username=sabbirckc&label=PROFILE%20VIEWS&style=for-the-badge&color=58A6FF" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<!-- CONNECT SECTION WITH FIXED ICONS -->
+<h2 align="center">
+  Let's Connect
+</h2>
+
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/sabbirckc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sabbir-hossainnubian" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <!-- Twitter -->
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:sabbirhossainnubian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://sabbirckc.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<!-- QUOTE SECTION -->
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+  <br /><br />
+</div>
+
+<!-- BOTTOM WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+github.com
