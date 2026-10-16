@@ -281,6 +281,15 @@ A complete full-stack application covering frontend, backend, and database.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
 <!-- ░░░░░░░░░░░░░░░░░░░░░░  OPEN SOURCE  ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ## 🌐 Open Source
