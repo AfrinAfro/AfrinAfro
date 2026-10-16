@@ -74,10 +74,14 @@ My primary interests include **full-stack web development, React.js, JavaScript,
 **My goal:** To build meaningful digital products, solve real-world problems, and grow into a skilled software engineer.
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="55%" valign="middle">
+  <!-- About Me text -->
+</td>
 
-  <img src="assets/coding-animation.gif" width="100%" alt="Coding animation"/>
-
+<td width="45%" align="center" valign="middle">
+  <img src="assets/coding-animation.gif"
+       width="100%"
+       alt="Coding animation"/>
 </td>
 </tr>
 </table>
