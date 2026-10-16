@@ -284,13 +284,11 @@ A complete full-stack application covering frontend, backend, and database.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AfrinAfro&theme=react-dark&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinafro&show_icons=true&locale=en&layout=compact" alt="afrinafro" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinafro&show_icons=true&locale=en" alt="afrinafro" /></p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AfrinAfro&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" width="100%" alt="Trophies">
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinafro&" alt="afrinafro" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
