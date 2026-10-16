@@ -3,7 +3,7 @@
      AFRIN BINTE AFROZ | PREMIUM GITHUB PROFILE README
      Repository: AfrinAfro
      Required assets:
-       assets/banner.jpg
+       assets/banner.png
        assets/coding-animation.gif
        resume.pdf
 ========================================================== -->
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="assets/banner.jpg" width="100%" alt="Afrin Binte Afroz — Developer Banner"/>
+  <img src="assets/banner.png" width="100%" alt="Afrin Binte Afroz — Developer Banner"/>
 
   <br/>
 
